@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 9224a01e4b5dc6746ae08dacd5d93619
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpSound: {instanceID: 0}
+  - deadSound: {instanceID: 0}
+  - uhSound: {instanceID: 0}
+  - oibanoisound: {instanceID: 0}
+  - oidoioisound: {instanceID: 0}
+  - renderer: {instanceID: 0}
+  - groundCheck: {instanceID: 0}
+  - diemlc: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  - diem: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - diemban: {instanceID: 0}
+  - diemban2: {instanceID: 0}
+  - dan2: {fileID: 1735968388730998363, guid: 08bd6ffb4fffbf24f8440268ee7090f2, type: 3}
+  - health: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
